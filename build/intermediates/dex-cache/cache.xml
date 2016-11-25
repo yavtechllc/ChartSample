@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_1edbc9566971f311c329a82bb648640d05ce621a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_21b3e3e34b367b1ef7e0a9a15dd75452ff1ebc0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\libs\achartengine-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e5caa95386c3c5cc723c2ede0877f0028d5bdfb">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\achartengine-1.2.0_ff980f68545b1d87d2f89aa153d58f326d189154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_405c52c7ea33c876657b3c3e826804085c853282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_41e7fc6ff209ac560f54cb2f319236749686958f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_a0337cc91467d950173fa42fe32f5235307cdb05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_1a9fffd7651753a712c16c4506c7e6f309c3ccff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_8a16a856fdd21defc966e13ce80d46a9ea4c3f32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_254a0fe4a2a3a355099c715141ec98f025274ee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_641fec703e89ac514189845291390822653311ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_bff4c6906f24170065c6a305fdceb993ed71222d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7bcb467c64145116c7ce0f76f8d34f1b0a2cdfea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_ef01a0869996fe59502632e0c2f0c91270b47fc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_f512f46241527a7fa31ac1a5ba4ed8c9d8e5a870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_21b2e7293e723bbd94f24b1217643107f8791db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\blueearth\AndroidStudioProjects\chartsample\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_b9bdedaaa1194f2faa1223e082a54b5e1fd38c20.jar" />
+    </item>
+
+</items>
